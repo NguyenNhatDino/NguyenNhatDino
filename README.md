@@ -1,6 +1,6 @@
 ## 🏠Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Founders%20Of%20&%20O%20Ceo%20Of%20Rosie%20Of%20Team%20Of%20Network;Contributed%20to%201500+%2B%20servers%20inside%20Discord;6+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Founder+%26+Ceo+Of+Rosie+Team+Network;With+6+Years+Of+Programming+Experience;Currently+Working+As+A+Developer+For+%2B600K+Sever;Owned+Website%3A+RosieTeam.Net" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/NguyenNhatDino">Nguyen Minh Nhat</a></h3>
