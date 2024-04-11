@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## 🏠Introduction
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Founder+%26+Ceo+Of+Rosie+Team+Network;With+6+Years+Of+Programming+Experience;Currently+Working+As+A+Developer+For+%2B600K+Sever;Owned+Website%3A+RosieTeam.Net" alt="Typing SVG" /></a>
@@ -53,8 +55,16 @@
 
 ## 🛠️Languages and Tools
 
-<p align="left"> <a href="https://github.com/NguyenNhatDino"><img src="https://skillicons.dev/icons?i=vscode,replit,github,python,css,html,js,express,bots,nodejs,androidstudio,unity,cpp,lua,bash,heroku,photoshop,xd,ae,au,pr,blender,cloudflare,codepen,java,django,raspberrypi,unreal,visualstudio,remix"> </a> </p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
+## 🐍My Contribution
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+ </div>
+ 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -135,4 +145,4 @@
  <p align="left">
    <a href="https://github.com/NguyenNhatDino/FakeBankingWeb"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NguyenNhatDino&repo=FakeBankingWeb&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
-  
+  </div>
